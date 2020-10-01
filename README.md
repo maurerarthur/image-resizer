@@ -5,7 +5,7 @@ Library to resize images in an elegant way
 Import the library:
 
 ```
-<script defer src="image-resizer.js"></script>
+<script defer src="image-resizer.min.js"></script>
 ```
 
 And then place the image like this:

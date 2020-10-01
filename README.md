@@ -11,7 +11,7 @@ Import the library:
 And then place the image like this:
 
 ```
-<div data-image="./img/image2.png" class="img-resize"></div>
+<div data-image="image_url.png" class="img-resize"></div>
 ```
 
 You can also define the custom width and height:

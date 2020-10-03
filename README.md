@@ -1,5 +1,5 @@
 # image-resizer
-Library to resize images in an elegant way
+Library to resize images in an elegant way, by making the images stick to the same height.
 
 # Usage
 Import the library:

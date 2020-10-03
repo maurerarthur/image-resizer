@@ -17,8 +17,12 @@ And then place the image like this:
 You can also define the custom width and height:
 
 ```
-const imageResizer = {
-    height: "400px",
-    width: "100%"
-};
+<script async="false">
+    const imageResizer = {
+        height: "400px",
+        width: "100%"
+    };
+</script>
 ```
+
+In order to have all the images with the same height, just assign the height of the less heighted image to the height attribute of the imageResizer object.
